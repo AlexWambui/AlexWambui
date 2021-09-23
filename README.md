@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm currently working on becoming a software engineer by doing hard things at ALX 🙂
+## I'm currenlty learning Low level programming & Algorithm
+# I'm looking to collaborate on projects especially web related.
+# I'm looking for help with OOP PHP.
