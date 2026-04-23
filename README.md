@@ -1,6 +1,7 @@
 
-<h2>Hello, I'm Alex Wambui.</h2>
-<p>A Software Engineer.</p>
+# Hello, I'm Alex Wambui.
+
+A Software Engineer.
 
 # 💻 Tech Stack:
 
