@@ -53,7 +53,7 @@ A Software Engineer.
   PayPal: alexwambuik@gmail.com
 
   ## Checkout my portfolio website
-  ![alexaaqil.netlify.app](https://alexaaqil.netlify.app)
+  [alexaaqil.netlify.app](https://alexaaqil.netlify.app)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
